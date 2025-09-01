@@ -56,7 +56,7 @@ is running. To get access to this data, pipe their outputs to a file:
 
 ### Usage
 
-    go get github.com/jteeuwen/framebuffer
+    go get github.com/ascension-association/framebuffer
 
 
 ### License
