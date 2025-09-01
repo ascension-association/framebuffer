@@ -6,7 +6,7 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/jteeuwen/framebuffer"
+	"github.com/ascension-association/framebuffer"
 	"image"
 	"image/draw"
 	_ "image/png"
